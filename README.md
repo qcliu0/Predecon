@@ -1,4 +1,4 @@
 # Predecon
-Precondition deconvolution
+Prediction deconvolution
 
 Old codes for fun
