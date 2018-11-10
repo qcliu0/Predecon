@@ -1,4 +1,4 @@
 # Predecon
-Prediction deconvolution
+Predictive deconvolution
 
 Old codes for fun
